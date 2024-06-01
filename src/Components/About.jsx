@@ -36,7 +36,7 @@ const skillsList = [
   "Java",
   "JavaScript",
   "Sql",
-  "Graphic design",
+  "PowerBI Analytics",
 ];
 
 /**
